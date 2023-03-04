@@ -2,7 +2,7 @@
 
 Al Gore Woke Up One Morning Wondering
 Designed by David Reinfurt
-Version 2.0, macOS 10.10+, 2019
+Version 2.1, 2023
 
 --
 
